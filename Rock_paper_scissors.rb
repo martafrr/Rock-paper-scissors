@@ -1,8 +1,3 @@
-#def user
-#	puts "Let\'s play! Choose between Rock, Paper and Scissors!"
-#	choice = gets.chomp.downcase
-#end
-
 def computer
 	computer = rand(3)
 	if computer <= 1
